@@ -15,6 +15,16 @@
 	<name>Eureka Server for Users project</name>
 	<description>Microservice discovery for user project</description>
 
+	<developers>
+		<developer>
+			<name>Chris Perrins</name>
+			<email>christophperrins@gmail.com</email>
+		</developer>
+	</developers>
+	<scm>
+		<url>https://github.com/christophperrins/users-eureka-server</url>
+	</scm>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
